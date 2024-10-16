@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "balance": 1000
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "balance": 1500
+    },
+    {
+      "id": "",
+      "name": "Pedro Gomes",
+      "balance": 23000000000
+    }
+  ]
+}
